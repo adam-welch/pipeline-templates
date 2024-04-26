@@ -1,5 +1,5 @@
 # .github/workflows/terraform_build.yml
-name: Reusable Terraform Workflow
+name: Terraform Build
 
 on:
   workflow_call:
