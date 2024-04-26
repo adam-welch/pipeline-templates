@@ -1,4 +1,4 @@
-# terraform/terraform_plan.yml
+# .github/workflows/terraform_plan.yml
 name: Reusable Terraform Workflow
 
 on:
